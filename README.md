@@ -5,7 +5,7 @@ A tiny library to check if a number is even.
 ## Installation
 
 ```bash
-npm install num-is-even
+npm i @programming360/num-is-even
 
 # Usage
 import { isEven } from "is-even";
